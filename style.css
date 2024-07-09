@@ -1,0 +1,30 @@
+body
+{
+  color: navy;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 35px;
+}
+#camera , #result
+{
+  border: 2px dashed brown;
+  width: 350px;
+  height: 300px; 
+}
+
+#handGesture
+{
+  font-size: 50px;
+}
+#gesture
+{
+  font-size: 50px;
+}
+.heading
+{
+  font-size:50px;
+  border-radius:15px;
+  letter-spacing:20px;
+}
